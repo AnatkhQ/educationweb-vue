@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 14px;
+	color: #4a4a4a;
+	font-family: PingFangSC-Light;
+}
+ul{
+	list-style: none;
+}
+.container{
+	width: 1200px;
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+}
+
